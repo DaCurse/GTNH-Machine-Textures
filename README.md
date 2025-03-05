@@ -6,7 +6,7 @@
  
  Multimc/Prism -> https://downloads.gtnewhorizons.com/Multi_mc_downloads/
  
- Curseforge -> https://www.curseforge.com/minecraft/modpacks/gt-new-horizons "Not reccomended Kinda Buggy"
+ Curseforge -> https://www.curseforge.com/minecraft/modpacks/gt-new-horizons "Not reccomended, Kinda Buggy"
 
  You can also join my discord server at -> https://discord.com/invite/eyE5rdWzJF If you have any Questions or suggestions.
  
