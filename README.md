@@ -1,4 +1,7 @@
 # GTNH Machine Textures
+
+**Customized to revert most multiblock casing textures, except Multi-Use casing. Also changed the top of the Cutting Factory casings to look like the other sides of it**
+
  Texturepack Build specifically to make all GT Machine textures in GTNH to be the colour of material used to make machine casing.
  Also changes to other textures of certain casing's from GT++ and Goodgenerator.
  
